@@ -1,5 +1,3 @@
-import './sass/main.scss';
-
 // preloader 
 const preloaderTL = gsap.timeline();
 preloaderTL.to('#logo', {yPercent: -20, opacity: 0, delay: 2})

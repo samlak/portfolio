@@ -180,9 +180,13 @@ section {
   letter-spacing: 3px;
 }
 
+.title-1 {
+  font-size: 2.5rem;
+}
+
 .paragraph {
-  font-size: 1.5rem;
-  color: #797575;
+  font-size: 2rem;
+  color: #bdbdbd;
 }
 
 /*--------------------------
@@ -190,12 +194,12 @@ section {
 ---------------------------*/
 .cta {
   background-color: #09F755;
-  padding: 1.5rem 4rem;
+  padding: 1.5rem 4rem 1.0rem;
   text-decoration: none;
   color: #000000;
   border-radius: 10rem;
   text-transform: uppercase;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   font-family: "Calibre-Semibold", sans-serif;
   letter-spacing: 3px;
   border: 1.5px solid transparent;
@@ -216,7 +220,7 @@ section {
 }
 
 .sec-color {
-  color: #797575;
+  color: #bdbdbd;
 }
 
 .mb-l {
